@@ -1295,7 +1295,7 @@ PrefabInstance:
     - target: {fileID: 114836593169595966, guid: 4743cdac02f4447409af6b84bc8ffcfe,
         type: 3}
       propertyPath: host
-      value: 127.0.0.1
+      value: 9dcba40950434c9009fee079.game.strixcloud.net
       objectReference: {fileID: 0}
     - target: {fileID: 114836593169595966, guid: 4743cdac02f4447409af6b84bc8ffcfe,
         type: 3}
@@ -1305,7 +1305,7 @@ PrefabInstance:
     - target: {fileID: 114836593169595966, guid: 4743cdac02f4447409af6b84bc8ffcfe,
         type: 3}
       propertyPath: applicationId
-      value: 00000000-0000-0000-0000-000000000000
+      value: e76b626f-9db6-4c99-b9ae-39b67cdc4f98
       objectReference: {fileID: 0}
     - target: {fileID: 224075686061435794, guid: 4743cdac02f4447409af6b84bc8ffcfe,
         type: 3}
